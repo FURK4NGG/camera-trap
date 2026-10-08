@@ -1,7 +1,7 @@
-## 👀 Fotokapan Overview  
+## 👀 camera-trap Overview  
 <h1 align="center">A handmade camera trap</h1>  
 
-![Fotokapan Demo Image](https://github.com/FURK4NGG/Fotokapan/blob/main/%7B%7D/fotokapan.webp)
+![camera-trap Demo Image](https://github.com/FURK4NGG/Fotokapan/blob/main/%7B%7D/fotokapan.webp)
 
 ## 🚀 Features  
 <h1 align="center">This is a portable mini camera trap. It detects motion with a PIR sensor, uses flash when needed, and saves every photo to an SD card with a unique name.</h1>  
