@@ -1,7 +1,7 @@
 ## 👀 camera-trap Overview  
 <h1 align="center">A handmade camera trap</h1>  
 
-![camera-trap Demo Image](https://github.com/FURK4NGG/Fotokapan/blob/main/%7B%7D/fotokapan.webp)
+![camera-trap Demo Image](https://github.com/FURK4NGG/camera-trap/blob/main/%7B%7D/camera-trap.webp)
 
 ## 🚀 Features  
 <h1 align="center">This is a portable mini camera trap. It detects motion with a PIR sensor, uses flash when needed, and saves every photo to an SD card with a unique name.</h1>  
@@ -23,8 +23,8 @@
 
 
 ## 📦 Setup 
-1. `Refer to the 'circuit_fotokapan-programming.png' diagram`
-2. `Install the 'Arduino IDE' software and open 'fotokapan.ino' with 'camera_pins.h' file`
+1. `Refer to the 'circuit_camera-trap-programming.png' diagram`
+2. `Install the 'Arduino IDE' software and open 'camera-trap.ino' with 'camera_pins.h' file`
 3. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
 >Paste this code  
 ```bash
@@ -58,7 +58,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 > ⚠️ **Advisory for Developers:** If you want to try this project in the future with new generation boards and you want to add new features like using 'DS1302 real time module', you must have 3 unused pins.
 
 ## 🎉 Run  
-1. `Refer to the 'circuit_fotokapan.png' diagram`
+1. `Refer to the 'circuit_camera-trap.png' diagram`
 2. `Position your camera trap at an appropriate angle`
 3. `Let the electricity pass through the switch`
 4. `Press the reset button on the esp32cam`
